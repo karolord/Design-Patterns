@@ -1,3 +1,11 @@
 {
-    "java.dependency.packagePresentation": "hierarchical"
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Karo\\Desktop\\guice-5.1.0.jar"
+    ],
+    "java.project.sourcePaths": [
+        "guice",
+        "Observer pattern/src"
+    ]
 }
